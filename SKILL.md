@@ -3,8 +3,9 @@ name: disclosure-calculus
 description: Guide potential whistleblowers through a structured decision-making framework to assess whether disclosure is warranted and how to proceed responsibly.
 license: MIT
 metadata:
+  version: 1.0.3840
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - disclosure-calculus
 - escalation
